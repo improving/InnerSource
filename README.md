@@ -2,6 +2,7 @@
 - [ImprovingU](https://github.com/improving/ImprovingUCourseLibrary)
 
 # Guides
+- [Experiment Preparation](/ExperimentPreparation.md)
 - [Maintainers](/MaintainersGuide.md)
 
 > If you are not part of the Improving organization on github, you can ask Jake.
