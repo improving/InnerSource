@@ -1,4 +1,4 @@
-[Best Practices for Maintainers](https://opensource.guide/best-practices/)
+One of the focuses for maintainers is to [build welcoming communities](https://opensource.guide/building-community/). There are already [best practices for maintainers](https://opensource.guide/best-practices/) so lets learn from others and see what works for us!
 
 # Maintainers' Questions
 ## Are the maintainers expected to produce code on the project?
